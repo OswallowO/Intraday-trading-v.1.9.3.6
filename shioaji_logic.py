@@ -1,0 +1,4 @@
+TEST_API_KEY = ""
+TEST_API_SECRET = ""
+CA_PASSWORD = ""
+CA_CERT_PATH = r""
